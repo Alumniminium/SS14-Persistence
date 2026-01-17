@@ -12,8 +12,6 @@ You can use the following sigils:
 - [color=tan]\[bullet\/\][/color] - to insert a bullet point (useful for lists)
 - [color=tan][bold]\[bold\]\[\/bold\][/bold][/color], [color=tan][italic]\[italic\]\[\/italic\][/italic][/color] - for emphasis
 
-- [color=tan]\[center\]\[\/center\][/color] - to center text
-
 You can combine [bold][italic]bold and italic[/italic][/bold] tags, or use the shortcut [color=tan][bolditalic]\[bolditalic\][/bolditalic][/color].
 
 Color supports either hexadecimal or most HTML color names. For example:
